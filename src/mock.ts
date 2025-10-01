@@ -199,7 +199,7 @@ export const mockData = {
     {
       id: 3,
       name: "Ana Costa",
-      text: "Did a perfect cover-up on my old tattoo. Better than I expected!",
+      text: "I got a perfect custom tattoo and loved the result. Better than I expected!",
       rating: 4,
       image:
         "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
