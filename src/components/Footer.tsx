@@ -19,7 +19,12 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4 flex-row">
             <div className="flex items-center space-x-4">
-              <Image src="/logo.png" alt="Instagram" width={70} height={20} />
+              <Image
+                src="/logo_white.png"
+                alt="Instagram"
+                width={70}
+                height={20}
+              />
               <h3 className="text-2xl font-bold text-[#fdfff1]">
                 Wanessa Dias
               </h3>
